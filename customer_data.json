@@ -1,0 +1,58 @@
+[
+    {
+        "Customer Name": "John Smith",
+        "Account Number": "77778888",
+        "Current Package": "Connect More Wifi 600mb",
+        "Monthly Spend": "40.00",
+        "Contract End Date": "2026-08-15"
+    },
+    {
+        "Customer Name": "Jane Doe",
+        "Account Number": "55556666",
+        "Current Package": "Mobile 10gb data, unlimited texts, unlimited calls",
+        "Monthly Spend": "20.50",
+        "Contract End Date": "2027-01-20"
+    },
+    {
+        "Customer Name": "Peter Jones",
+        "Account Number": "33334444",
+        "Current Package": "Mobile Plan",
+        "Monthly Spend": "40.00",
+        "Contract End Date": "2027-11-30"
+    },
+    {
+        "Customer Name": "Mary Williams",
+        "Account Number": "11112222",
+        "Current Package": "Internet Pro",
+        "Monthly Spend": "80.75",
+        "Contract End Date": "2028-09-01"
+    },
+    {
+        "Customer Name": "David Brown",
+        "Account Number": "98765432",
+        "Current Package": "Internet + TV + Mobile",
+        "Monthly Spend": "180.00",
+        "Contract End Date": "2026-03-10"
+    },
+    {
+        "Customer Name": "Emily Davis",
+        "Account Number": "23456789",
+        "Current Package": "Internet Basic",
+        "Monthly Spend": "50.00",
+        "Contract End Date": "2025-05-22"
+    },
+    {
+        "Customer Name": "Michael Miller",
+        "Account Number": "87654321",
+        "Current Package": "Internet + TV",
+        "Monthly Spend": "125.00",
+        "Contract End Date": "2024-10-18"
+    },
+    {
+        "Customer Name": "Salah Mansouri",
+        "Account Number": "12345678",
+        "Current Package": "Wifi 50mb",
+        "Monthly Spend": "25.00",
+        "Contract End Date": "2025-10-28"
+    }
+]

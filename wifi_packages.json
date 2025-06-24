@@ -1,0 +1,44 @@
+[
+    {
+        "Plan Name": "Connect",
+        "Download Speed (Mbps)": 200,
+        "Upload Speed (Mbps)": 80,
+        "Price per Month": 35.00,
+        "Contract Length (years)": 5
+    },
+    {
+        "Plan Name": "Connect More",
+        "Download Speed (Mbps)": 600,
+        "Upload Speed (Mbps)": 150,
+        "Price per Month": 40.00,
+        "Contract Length (years)": 5
+    },
+    {
+        "Plan Name": "Fast",
+        "Download Speed (Mbps)": 800,
+        "Upload Speed (Mbps)": 150,
+        "Price per Month": 45.00,
+        "Contract Length (years)": 5
+    },
+    {
+        "Plan Name": "Gigabit",
+        "Download Speed (Mbps)": 1100,
+        "Upload Speed (Mbps)": 300,
+        "Price per Month": 50.00,
+        "Contract Length (years)": 5
+    },
+    {
+        "Plan Name": "Gigabit Extra",
+        "Download Speed (Mbps)": 1300,
+        "Upload Speed (Mbps)": 300,
+        "Price per Month": 70.00,
+        "Contract Length (years)": 5
+    },
+    {
+        "Plan Name": "Gigabit X2",
+        "Download Speed (Mbps)": 2000,
+        "Upload Speed (Mbps)": 300,
+        "Price per Month": 90.00,
+        "Contract Length (years)": 5
+    }
+]

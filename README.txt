@@ -1,4 +1,4 @@
-To setup the environment on your local machine:
+To setup the environment on your local machine (once cloned):
 
 1. Install the adk
 sudo python3 -m pip install google-adk==1.2.1
